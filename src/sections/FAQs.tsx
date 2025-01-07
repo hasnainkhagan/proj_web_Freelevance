@@ -24,7 +24,7 @@ const faqs = [
     answer:
       "We have experience across various industries including technology, retail, hospitality, and professional services, bringing fresh perspectives to each project.",
   },
-]; //www.youtube.com/watch?v=lhXFlqMLGe8
+];
 const FAQs: FC = () => {
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
   return (
