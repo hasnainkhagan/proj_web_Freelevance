@@ -22,7 +22,7 @@ const navItems = [
     label: "FAQs",
   },
   {
-    href: "https://www.linkedin.com/in/hasnainkhagan",
+    href: "#hero",
     label: "Contact",
   },
 ];

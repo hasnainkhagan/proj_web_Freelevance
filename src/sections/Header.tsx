@@ -175,7 +175,7 @@ const Header: FC = () => {
                   />
                 </svg>
               </div>
-              <a href="mailto:freelevance@gmail.com">
+              <a href="https://www.linkedin.com/company/freelevance">
                 <Button
                   variant="primary"
                   className="hidden md:inline-flex hover:bg-transparent hover:border-red-orange-500 hover:text-[#dedede]"

@@ -35,7 +35,7 @@ const Hero: FC = () => {
   }, [entranceAnimation]);
 
   return (
-    <section>
+    <section id="hero">
       <div className="grid md:grid-cols-12 md:h-screen items-stretch sticky top-0">
         <div className="md:col-span-7 flex flex-col justify-center">
           <div className="container !max-w-full">
@@ -106,7 +106,7 @@ const Hero: FC = () => {
                   delay: 2.2,
                 }}
               >
-                <a href="mailto:freelevance@gmail.com">
+                <a href="#contact">
                   <Button variant="text">Let&apos;s Talk</Button>
                 </a>
               </motion.div>
