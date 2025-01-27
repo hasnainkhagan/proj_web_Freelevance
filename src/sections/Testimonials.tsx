@@ -13,7 +13,7 @@ const testimonials = [
     company: "Simplex Fire Corp.",
     role: "Salesman",
     quote:
-      "Freelevance's expertise in both technical development and design created a beautiful, high-performing website.",
+      "Their React.js-based web app was secure, fast, and incredibly user-friendly. Amazing work !",
     image: image1,
     imagePositionY: 0.3,
   },
@@ -22,7 +22,7 @@ const testimonials = [
     company: "Engine Tech",
     role: "Technical Lead",
     quote:
-      "Freelevance provided engine tech & automated solutions plus cloud infrastructure management, successfully got delivered.",
+      "Freelevance optimized our tech stack and resolved all issues with ease. Fantastic problem-solvers !",
     image: image2,
     imagePositionY: 0.3,
   },
@@ -31,7 +31,7 @@ const testimonials = [
     company: "JR Studios",
     role: "Founder & Owner",
     quote:
-      "The collaborative process was amazing. Freelevance brought lots of fresh perspectives and innovative solutions.",
+      "Partnering with Freelevance felt like working with an extension of our team. Their insights led to measurable results.",
     image: image3,
     imagePositionY: 0.3,
   },
