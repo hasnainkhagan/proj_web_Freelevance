@@ -88,7 +88,7 @@ const Header: FC = () => {
   return (
     <header className="uppercase">
       <div
-        className="fixed top-0 left-0 w-full h-0 overflow-hidden bg-[#131313] z-10"
+        className="fixed top-0 left-0 w-full h-0 overflow-hidden bg-[#001414] z-10"
         ref={navScope}
       >
         <nav className="mt-20 flex flex-col">
@@ -96,7 +96,7 @@ const Header: FC = () => {
             <a
               href={href}
               key={label}
-              className="text-stone-200 border-t last:border-b border-[#242424] py-8 group/nav-item relative isolate"
+              className="text-stone-200 border-t last:border-b border-[#dedede]/30 py-8 group/nav-item relative isolate"
               onClick={handleClickMobileNavItem}
             >
               <div className="container !max-w-full flex items-center justify-between">
@@ -118,7 +118,7 @@ const Header: FC = () => {
                   />
                 </svg>
               </div>
-              <div className="absolute w-full h-0 bg-[#181818] group-hover/nav-item:h-full transition-all duration-500 bottom-0 -z-10"></div>
+              <div className="absolute w-full h-0 bg-[#021818] group-hover/nav-item:h-full transition-all duration-500 bottom-0 -z-10"></div>
             </a>
           ))}
         </nav>
@@ -141,7 +141,7 @@ const Header: FC = () => {
           <div className="flex h-20 justify-end items-center">
             <div className="flex items-center gap-4">
               <div
-                className="size-11 border border-stone-400 rounded-full inline-flex items-center justify-center bg-stone-200 text-[#131313]"
+                className="size-11 border border-stone-400 rounded-full inline-flex items-center justify-center bg-stone-200 text-[#001414]"
                 onClick={() => setIsOpen(!isOpen)}
               >
                 <svg

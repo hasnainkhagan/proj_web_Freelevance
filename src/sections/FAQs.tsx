@@ -46,7 +46,7 @@ const FAQs: FC = () => {
             >
               <div
                 className={twMerge(
-                  "absolute h-0 w-full bg-[#181818] -z-10 group-hover/faq:h-full bottom-0 left-0 transition-all duration-700",
+                  "absolute h-0 w-full bg-[#021818] -z-10 group-hover/faq:h-full bottom-0 left-0 transition-all duration-700",
                   faqIndex === selectedIndex && "h-full"
                 )}
               ></div>
@@ -61,7 +61,7 @@ const FAQs: FC = () => {
                 </div>
                 <div
                   className={twMerge(
-                    "inline-flex items-center justify-center size-11 border border-[#dedede] bg-[#131313] rounded-full shrink-0 transition duration-300",
+                    "inline-flex items-center justify-center size-11 border border-[#dedede] bg-[#001414] rounded-full shrink-0 transition duration-300",
                     faqIndex === selectedIndex && "rotate-45"
                   )}
                 >

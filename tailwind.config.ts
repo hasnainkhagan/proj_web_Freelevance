@@ -26,7 +26,7 @@ const config: Config = {
       },
       colors: {
         "red-orange": {
-          500: "#a1ff00",
+          500: "#9eff00",
         },
       },
     },

@@ -56,7 +56,7 @@ const Footer: FC = () => {
     target.scrollIntoView({ behavior: "smooth" });
   };
   return (
-    <footer className="bg-[#131313] text-[#dedede]" id="contact">
+    <footer className="bg-[#001414] text-[#dedede]" id="contact">
       <div className="container">
         <div className="section">
           <div className="flex items-center gap-3">

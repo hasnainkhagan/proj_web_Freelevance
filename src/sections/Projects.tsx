@@ -47,7 +47,7 @@ const Projects: FC = () => {
               target="_blank"
               className="border-t last:border-b border-[#dedede]/30 py-6 md:py-8 lg:py-10 flex flex-col relative group/project"
             >
-              <div className="absolute bottom-0 left-0 w-full h-0 group-hover/project:h-full transition-all duration-500 bg-[#181818]"></div>
+              <div className="absolute bottom-0 left-0 w-full h-0 group-hover/project:h-full transition-all duration-500 bg-[#021818]"></div>
               <div className="relative">
                 <div className="aspect-video md:hidden">
                   <Image
