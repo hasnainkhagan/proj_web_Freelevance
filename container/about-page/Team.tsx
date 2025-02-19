@@ -16,12 +16,17 @@ export default function Team() {
           <div className="w-full flex flex-col justify-between gap-[20px] py-[10px]">
             <div className="flex justify-between sm:flex-col xm:flex-col gap-[20px]">
               <div>
-                <Image src={logo} alt="ochi-logo" width={50} height={50} />
+                <Image
+                  src={logo}
+                  alt="Freelevance-logo"
+                  width={50}
+                  height={50}
+                />
               </div>
               <div>
                 <Image
                   src={Team1}
-                  alt="ochi-logo"
+                  alt="Freelevance-logo"
                   width={300}
                   height={300}
                   className="rounded-[10px] sm:w-full xm:w-full"

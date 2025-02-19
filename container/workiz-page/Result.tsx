@@ -18,14 +18,14 @@ export default function Result() {
                   Feedback
                 </p>
                 <p className="paragraph font-NeueMontreal text-secondary">
-                  “OCHI brought certain level of
+                  “Freelevance brought certain level of
                   <br className="sm:hidden xm:hidden" /> professionalism into
                   our presentations that
                   <br className="sm:hidden xm:hidden" /> we were lacking before.
                   When I showed <br className="sm:hidden xm:hidden" />
                   our management and HR teams the
                   <br className="sm:hidden xm:hidden" />
-                  presentation OCHI developed, they were
+                  presentation Freelevance developed, they were
                   <br className="sm:hidden xm:hidden" />
                   amazed <p className="inline-block sm:hidden xm:hidden">
                     —

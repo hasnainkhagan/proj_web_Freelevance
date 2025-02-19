@@ -28,7 +28,7 @@ export { default as brand03 } from "./brand03.png";
 export { default as publication1 } from "./publication1.jpeg";
 export { default as publication2 } from "./publication2.png";
 export { default as publication3 } from "./publication3.png";
-export { default as ochiside } from "./ochi-side.png";
+export { default as Freelevanceside } from "./ochi-side.png";
 export { default as eyeplay } from "./eyeplay.svg";
 export { default as contactHero } from "./contacthhero.jpg";
 
@@ -53,7 +53,7 @@ export { default as insights3 } from "./insights3.jpeg";
 export { default as latest1 } from "./latest1.png";
 export { default as latest2 } from "./latest2.jpeg";
 
-// ochi-team
+// freelevance-team
 export { default as backgroundAbout } from "./background-about.jpeg";
 export { default as Team1 } from "./team1.jpeg";
 export { default as Team2 } from "./team2.jpeg";

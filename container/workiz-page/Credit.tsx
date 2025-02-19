@@ -27,7 +27,7 @@ export default function Credit() {
                     Project Manager:
                   </p>
                   <p className="paragraph font-NeueMontreal text-secondary">
-                    Ihor Hulyahrodskyy
+                    Hasnain Khan
                   </p>
                 </div>
               </div>
@@ -37,7 +37,7 @@ export default function Credit() {
                     Team:
                   </p>
                   <p className="paragraph font-NeueMontreal text-secondary">
-                    Ihor Hulyahrodskyy, Kseniia Palamarchuk,
+                    Hasnain Khan, Kseniia Palamarchuk,
                     <br /> Olha Sereda
                   </p>
                 </div>
