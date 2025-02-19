@@ -473,7 +473,7 @@ export const serviceClientsItem = [
     name: "Nina Walloch",
     src: client02,
     review:
-      "Ihor and his team tackled the projects with great professionalism and creativity. They understood our brand value and turned this into excellent slide designs. The process was seamless and very effective, so we decided to roll this out across all our presentation decks. Furthermore, their understanding, professionalism, and creativity have secured a continued partnership.",
+      "Hasnain and his team tackled the projects with great professionalism and creativity. They understood our brand value and turned this into excellent slide designs. The process was seamless and very effective, so we decided to roll this out across all our presentation decks. Furthermore, their understanding, professionalism, and creativity have secured a continued partnership.",
     links: [
       {
         id: 1,
@@ -579,7 +579,7 @@ export const serviceClientsItem = [
     name: "Brendon Goss",
     src: client05,
     review:
-      "The service received from Freelevance was absolutely first-class. Their close attention to detail, and deep thought in terms of narrative, flow, and aesthetics, completely exceeded my expectations, which were very high from the outset. Especially loved and appreciated the creation of visuals, animation, and advice around the look and feel that we are after. We will definitely continue working with Ihor and his team. I cannot recommend them highly enough.",
+      "The service received from Freelevance was absolutely first-class. Their close attention to detail, and deep thought in terms of narrative, flow, and aesthetics, completely exceeded my expectations, which were very high from the outset. Especially loved and appreciated the creation of visuals, animation, and advice around the look and feel that we are after. We will definitely continue working with Hasnain and his team. I cannot recommend them highly enough.",
     links: [
       {
         id: 1,
@@ -618,7 +618,7 @@ export const serviceClientsItem = [
     name: "Stefan Strohmer",
     src: client07,
     review:
-      "The result was just amazing! For me, a designer is exceptional when you are so satisfied with the result that you want to look at it the whole day like a kid with a new toy. Ihor and his team delivered exactly that! They are very talented designers who understand the real business problem we are trying to solve and iterate over many drafts to achieve the best possible outcome. We are looking for a long-lasting working relationship!",
+      "The result was just amazing! For me, a designer is exceptional when you are so satisfied with the result that you want to look at it the whole day like a kid with a new toy. Hasnain and his team delivered exactly that! They are very talented designers who understand the real business problem we are trying to solve and iterate over many drafts to achieve the best possible outcome. We are looking for a long-lasting working relationship!",
     links: [
       {
         id: 1,
@@ -802,7 +802,7 @@ export const expectationsItems = [
     subTitle1: "One point of contact",
     btn: "read",
     para1:
-      "Every project is led by Ihor, the agency's founder and creative director. He ensures the whole project flows from start to finish. He puts together the right creative team for your specific project. You will always have this direct contact person available to speak your business language. He takes care of translating your business goals into the language of design for the team.",
+      "Every project is led by Hasnain, the agency's founder and creative director. He ensures the whole project flows from start to finish. He puts together the right creative team for your specific project. You will always have this direct contact person available to speak your business language. He takes care of translating your business goals into the language of design for the team.",
   },
   {
     id: 3,
@@ -1193,7 +1193,7 @@ export const aboutPartberItems = [
     id: 1,
     src: planetly,
     title: "Planetly",
-    para: "Ihor and his team tackled the projects with great professionalism and creativity. They understood our brand value and turned this into excellent slide designs. The process was seamless and very effective, so we decided to roll this out across all our presentation decks. Furthermore, their understanding, professionalism, and creativity have secured a continued partnership.",
+    para: "Hasnain and his team tackled the projects with great professionalism and creativity. They understood our brand value and turned this into excellent slide designs. The process was seamless and very effective, so we decided to roll this out across all our presentation decks. Furthermore, their understanding, professionalism, and creativity have secured a continued partnership.",
   },
   {
     id: 2,
@@ -1205,7 +1205,7 @@ export const aboutPartberItems = [
     id: 3,
     src: nestle,
     title: "Nestle",
-    para: "This is just a great experience for us! As an established company, you operate within different industries and expect immediate input with a certain level of service. Ihor and the team delivered exactly that. Fantastic result, quick delivery time, and highly responsive. This team is a hidden gem. We've already started to outline our next projects for them.",
+    para: "This is just a great experience for us! As an established company, you operate within different industries and expect immediate input with a certain level of service. Hasnain and the team delivered exactly that. Fantastic result, quick delivery time, and highly responsive. This team is a hidden gem. We've already started to outline our next projects for them.",
   },
   // {
   //    id: 4,
@@ -1229,7 +1229,7 @@ export const aboutPartberItems = [
   //    id: 7,
   //    src: orderlion,
   //    title: "Orderlion",
-  //    para: "The result was just amazing! For me, a designer is exceptional when you are so satisfied with the result that you want to look at it the whole day like a kid with a new toy. Ihor and his team delivered exactly that! They are very talented designers who understand the real business problem we are trying to solve and iterate over many drafts to achieve the best possible outcome. We are looking for a long-lasting working relationship!"
+  //    para: "The result was just amazing! For me, a designer is exceptional when you are so satisfied with the result that you want to look at it the whole day like a kid with a new toy. Hasnain and his team delivered exactly that! They are very talented designers who understand the real business problem we are trying to solve and iterate over many drafts to achieve the best possible outcome. We are looking for a long-lasting working relationship!"
   // },
   // {
   //    id: 8,
@@ -1307,7 +1307,7 @@ export const FaqItems = [
         id: 1,
         title: 1,
         description:
-          "If you feel like you’re on top of your creative game, whether it’s storytelling, graphic design, or animation. Send us the CV and portfolio at Ihor@Freelevance.design with “CREATE AND THRILL” in the subject. We will get back to you and maybe schedule a call. If there’s a potential fit here, you will meet the team. If that goes well – you’ll become a part of it.",
+          "If you feel like you’re on top of your creative game, whether it’s storytelling, graphic design, or animation. Send us the CV and portfolio at Hasnain@Freelevance.design with “CREATE AND THRILL” in the subject. We will get back to you and maybe schedule a call. If there’s a potential fit here, you will meet the team. If that goes well – you’ll become a part of it.",
       },
       {
         id: 2,
