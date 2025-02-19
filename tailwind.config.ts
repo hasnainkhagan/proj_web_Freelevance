@@ -2,33 +2,31 @@ import type { Config } from "tailwindcss";
 
 const config: Config = {
   content: [
-    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/sections/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
+    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
+    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./animation/**/*.{js,ts,jsx,tsx,mdx}",
+    "./container/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    screens: {
-      sm: "375px",
-      md: "768px",
-      lg: "1200px",
-    },
     extend: {
-      fontFamily: {
-        sans: "var(--font-archivo)",
-      },
-      container: {
-        center: true,
-        padding: {
-          DEFAULT: "1rem",
-          md: "2rem",
-          lg: "4rem",
-        },
-      },
       colors: {
-        "red-orange": {
-          500: "#9eff00",
-        },
+        background: "#f1f1f1",
+        secondary: "#212121",
+        marquee: "#0d473c",
+        about: "#b5cf55",
       },
+    },
+    fontFamily: {
+      FoundersGrotesk: ["FoundersGrotesk", "sans-serif"],
+      NeueMontreal: ["NeueMontreal", "sans-serif"],
+    },
+    screens: {
+      xm: { max: "400px" },
+      sm: { min: "401px", max: "768px" },
+      md: { min: "769px", max: "1024px" },
+      lg: { min: "1025px", max: "1490px" },
+      xl: { min: "1491px" },
     },
   },
   plugins: [],
