@@ -40,8 +40,9 @@ export default function About() {
               <div className="w-[40%] sm:w-[60%] xm:w-[60%]">
                 <p className="sub-paragraph font-medium font-NeueMontreal text-secondary tracking-wide">
                   We build custom digital solutions to help you impress clients,
-                  streamline operations, & scale your business. Whether it’s a
-                  website, app, or automation tool, we craft it for impact.
+                  streamline operations, & scale your business. Whether
+                  it&apos;s a website, app, or automation tool, we craft it for
+                  impact.
                 </p>
                 <p className="sub-paragraph font-medium font-NeueMontreal text-secondary pt-[30px] tracking-wide">
                   We believe the fusion of technology & strategy (with a bit of

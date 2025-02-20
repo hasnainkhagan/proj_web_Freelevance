@@ -30,7 +30,7 @@ export default function Navbar() {
       >
         <div className="w-[50%]">
           <Link href={"/"}>
-            <Image src={logo} alt="Freelevance logo" width={70} height={70} />
+            <Image src={logo} alt="Freelevance logo" width={220} height={70} />
           </Link>
         </div>
         <div className="flex gap-x-[20px] w-[50%]">

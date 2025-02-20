@@ -18,7 +18,7 @@ export default function Hero() {
           <div className="w-full flex justify-between gap-[20px] pl-[50px] md:pl-[30px] sm:pl-[20px] xm:pl-[20px]">
             <div>
               <h1 className="heading tracking-[-1.3px] text-secondary font-semibold font-FoundersGrotesk uppercase">
-                we craft <br />
+                Tech. Strategy. Success. <br />
                 <div className="flex items-center gap-[5px]">
                   <motion.span
                     initial={{ width: 0 }}
@@ -39,10 +39,10 @@ export default function Hero() {
                     />
                   </motion.span>
                   <h1 className="heading tracking-[-1.3px] text-secondary font-semibold font-FoundersGrotesk uppercase">
-                    game-changing
+                    Unmatched.
                   </h1>
                 </div>
-                digital experiences.
+                Built for impact.
               </h1>
             </div>
             <div>

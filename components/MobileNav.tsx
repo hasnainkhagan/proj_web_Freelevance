@@ -14,7 +14,7 @@ export default function MobileNav() {
     <>
       <div className="w-full hidden justify-between items-center h-[8vh] padding-x sm:flex xm:flex md:flex">
         <Link href={"/"}>
-          <Image src={logo} alt="Freelevance logo" width={70} height={70} />
+          <Image src={logo} alt="Freelevance logo" width={220} height={70} />
         </Link>
         <HiOutlineMenuAlt4
           onClick={() => setToggle(true)}
@@ -35,7 +35,7 @@ export default function MobileNav() {
                 <Image
                   src={mobileLogo}
                   alt="Freelevance logo"
-                  width={70}
+                  width={220}
                   height={70}
                 />
               </Link>

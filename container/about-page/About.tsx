@@ -16,7 +16,7 @@ export default function About() {
               <div className="w-[50%] sm:w-full xm:w-full flex flex-col gap-y-[40px]">
                 <div className="flex flex-col gap-y-[20px]">
                   <p className="paragraph font-NeueMontreal text-secondary">
-                    The team of developers, designers, and <br />{" "}
+                    The team of developers, designers, and <br />
                     problem-solvers who collaborate to build <br /> high-impact
                     digital solutions that help <br /> businesses scale,
                     automate, & thrive.

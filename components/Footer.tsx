@@ -91,7 +91,7 @@ export default function Footer() {
       <div className="w-full pt-[40px] pb-[30px] flex justify-between sm:flex-col xm:flex-col sm:gap-[20px] xm:gap-[20px]">
         <div className="w-1/2 sm:w-full xm:w-full">
           <Link href={"/"}>
-            <Image src={logo} alt="Freelevance logo" width={70} height={70} />
+            <Image src={logo} alt="Freelevance logo" width={220} height={70} />
           </Link>
         </div>
         <div className="w-1/2 h-full flex gap-[10px] justify-between items-end sm:w-full xm:w-full sm:flex-col xm:flex-col sm:items-start xm:items-start">
