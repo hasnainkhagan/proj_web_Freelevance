@@ -1325,13 +1325,13 @@ export const FaqItems = [
         id: 1,
         title: 1,
         description:
-          "If you feel like you’re on top of your creative game, whether it’s storytelling, graphic design, or animation. Send us the CV and portfolio at Hasnain@Freelevance.design with “CREATE AND THRILL” in the subject. We will get back to you and maybe schedule a call. If there’s a potential fit here, you will meet the team. If that goes well – you’ll become a part of it.",
+          "If you feel like you’re on top of your creative game, whether it’s storytelling, graphic design, or animation. Send us the CV and portfolio at team.freelevance@gmail.com with “CREATE AND THRILL” in the subject. We will get back to you and maybe schedule a call. If there’s a potential fit here, you will meet the team. If that goes well – you’ll become a part of it.",
       },
       {
         id: 2,
         title: 2,
         description:
-          "If you think you can improve our processes, marketing, PR, and communications, or you excel at managing people, we would love to hear from you. Send your message to hello@Freelevance.design with “-” and we will get back to you.",
+          "If you think you can improve our processes, marketing, PR, and communications, or you excel at managing people, we would love to hear from you. Send your message to team.freelevance@gmail.com with “-” and we will get back to you.",
       },
     ],
     button: "read",
@@ -1362,7 +1362,7 @@ export const FaqItems = [
     question: "Would you like to jump on a podcast or YouTube video?",
     title: "Description",
     description:
-      "Yes, why not. It’s a great chance to give back to the creative community by sharing and learning. Especially if the audience is relevant to the communication design subject. Or maybe it helps our clients in some way. We can’t know until we see some details, so drop us a line with a brief explanation at kseniia@Freelevance.design with the “Podcast/YT Proposal”.",
+      "Yes, why not. It’s a great chance to give back to the creative community by sharing and learning. Especially if the audience is relevant to the communication design subject. Or maybe it helps our clients in some way. We can’t know until we see some details, so drop us a line with a brief explanation at team.freelevance@gmail.com with the “Podcast/YT Proposal”.",
     links: [
       {
         id: 1,
