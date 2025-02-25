@@ -675,7 +675,7 @@ export const serviceCapaybilitiesItem = [
   {
     id: 1,
     src1: capaybilities1,
-    title1: "RAISE FUNDS:",
+    title1: "MAIN :",
     review:
       "We help manage investor expectations and secure financing for your business with an excellent investor deck.Having a good product or illuminating ideas is not enough anymore.Poor investor presentation may close the door to potential financing right away.In contrast, a properly made investor deck provides investors with clarity, evokes confidence, and leaves them craving for more.",
     subTitle: "Projects",
@@ -1244,54 +1244,72 @@ export const aboutPartberItems = [
 export const FaqItems = [
   {
     id: 1,
-    question: "How many iterations the project includes?",
+    question: "What services does Freelevance offer ?",
     title: "Description",
     description:
-      "We’re committed to delighting every one of our clients and will do everything to deliver on the project fully. We iterate as much as needed to ensure the best result.",
+      "We offer a full spectrum of web & app development services to help businesses scale & thrive in the digital world.",
     links: [
       {
         id: 1,
         title: 1,
         description:
-          "Based on our experience and ways of working, no more than three revisions are needed to meet clients’ expectations and business needs.",
+          "Our core expertise includes :Custom website & web app development (React, Next.js, Node.js), Mobile app development (React Native, Flutter), UI/UX design & branding, E-commerce & SaaS solutions, API development & integrations.",
       },
       {
         id: 2,
         title: 2,
         description:
-          "If your project is something we are not capable of doing, we will say it right there and won’t commit. Instead, we will refer you to specialists in any field you need and we might know.",
+          "We also provide consulting services for businesses looking to optimize existing platforms, migrate to modern tech stacks, or build scalable digital products from scratch.",
       },
     ],
     button: "read",
   },
   {
     id: 2,
-    question: "Do you animate presentations?",
+    question: " Do you work with startups or only established companies ?",
     title: "Description",
     description:
-      "Movement is what attracts the eye. But not every presentation requires animation, although we do agree that animated presentations give a wow effect. We surely add transitions and animation to your presentation where we think it increases engagement, surprise, or simply delivers the message flawlessly.",
+      "We work with businesses at all stages—from idea-phase startups to large enterprises.",
     links: [
       {
         id: 1,
         title: 1,
         description:
-          "By the way, animated presentations can also be used for marketing purposes to promote your ideas via socials.",
+          "For startups, we specialize in : MVP development to validate ideas, Scalable architectures for future growth, Investor-ready pitch decks & branding.",
+      },
+      {
+        id: 2,
+        title: 2,
+        description:
+          "For established businesses, we focus on : Custom solutions to streamline operations, Website & app modernization for better performance, Enhancing digital presence & user engagement.",
+      },
+      {
+        id: 3,
+        title: 3,
+        description:
+          "Regardless of the stage, our goal is to build tech solutions that align with your business needs.",
       },
     ],
     button: "read",
   },
   {
     id: 3,
-    question: "Do you join forces with other agencies?",
+    question: "How long does a typical project take?",
     title: "Description",
     description:
-      "Yes, we do partner with other creative agencies where we lack expertise or experience. We carefully select our partners and frequently collaborate on brand identity, web design, animation design, and other fine initiatives that benefit both us and our clients. All with the purpose to expand our creative POV and supplementing you with top-notch work.",
+      "Timelines depend on project complexity, but we balance speed with quality to ensure the best results.",
+
     links: [
       {
         id: 1,
         title: 1,
         description:
           "By the way, animated presentations can also be used for marketing purposes to promote your ideas via socials.",
+        bullets: [
+          "Landing pages & simple websites: 4-6 weeks",
+          "Custom web platforms or SaaS: 8-12+ weeks",
+          "Mobile app development: 10-16+ weeks",
+        ],
       },
     ],
     button: "read",

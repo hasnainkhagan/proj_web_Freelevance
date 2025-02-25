@@ -9,7 +9,7 @@ export default function Form() {
           <div className="flex gap-[10px] w-[50%] sm:w-full xm:w-full sm:flex-col xm:flex-col">
             <div className="xl:min-w-max lg:min-w-max md:min-w-max">
               <h2 className="sub-heading font-NeueMontreal font-normal text-secondary">
-                Hi! My name is
+                Hello ! My name is
               </h2>
             </div>
             <div className="w-full">
@@ -39,7 +39,7 @@ export default function Form() {
           <div className="flex gap-[10px] w-full sm:flex-col xm:flex-col">
             <div className="xl:min-w-max lg:min-w-max md:min-w-max">
               <h2 className="sub-heading font-NeueMontreal font-normal text-secondary">
-                I’m looking for a partner to help me with
+                I’m looking for a person to help me with
               </h2>
             </div>
             <div className="w-full">
@@ -71,7 +71,7 @@ export default function Form() {
           <div className="flex gap-[10px] w-full sm:flex-col xm:flex-col">
             <div className="xl:min-w-max lg:min-w-max md:min-w-max">
               <h2 className="sub-heading font-NeueMontreal font-normal text-secondary">
-                I am hoping to stay around a budget range of
+                I'm hoping to stay around a budget range of
               </h2>
             </div>
             <div className="w-full">
@@ -108,7 +108,7 @@ export default function Form() {
           <div className="flex gap-[10px] w-full sm:flex-col xm:flex-col">
             <div className="xl:min-w-max lg:min-w-max md:min-w-max">
               <h2 className="sub-heading font-NeueMontreal font-normal text-secondary">
-                Optionally, i’m sharing more:
+                Optionally, I’m sharing more :
               </h2>
             </div>
             <div className="w-full">

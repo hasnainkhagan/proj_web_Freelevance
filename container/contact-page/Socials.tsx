@@ -46,7 +46,7 @@ export default function Socials() {
           <div className="w-full flex sm:flex-col xm:flex-col justify-between gap-y-[20px] padding-x">
             <div className="w-[50%] sm:w-full xm:w-full">
               <h3 className="paragraph font-medium text-secondary font-NeueMontreal">
-                Our contact
+                Our Contact
               </h3>
             </div>
             <div className="w-[50%] sm:w-full xm:w-full flex sm:flex-col xm:flex-col justify-between gap-y-[20px]">
@@ -80,10 +80,10 @@ export default function Socials() {
               <div className="flex w-fit h-fit gap-x-[5px] group">
                 <div className="rounded-[50px] border-[2px] border-[#21212155] group-hover:bg-secondary  py-[3px] px-[12px] cursor-pointer">
                   <Link
-                    href="mailto:hello@Freelevance.design"
+                    href="mailto:team.freelevance@gmail.com"
                     className="paragraph font-NeueMontreal text-secondary uppercase group-hover:text-background transition-all duration-200 ease-in"
                   >
-                    hello@Freelevance.design
+                    team.freelevance@gmail.com
                   </Link>
                 </div>
                 <div className="w-[33px] flex items-center justify-center h-[33px] border-[2px] border-[#21212155] rounded-[50px] group-hover:bg-secondary transition-all duration-200 ease-in cursor-pointer sm:hidden xm:hidden">

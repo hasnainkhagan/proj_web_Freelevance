@@ -19,7 +19,7 @@ export default function Team() {
                 <Image
                   src={logo}
                   alt="Freelevance-logo"
-                  width={50}
+                  width={220}
                   height={50}
                 />
               </div>

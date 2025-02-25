@@ -11,9 +11,9 @@ export default function Faq() {
 
   return (
     <section className="w-full padding-y mt-[-10px] bg-background z-30 relative rounded-t-[20px]">
-      <h1 className="sub-heading padding-x font-medium font-NeueMontreal text-secondary pb-[50px]">
+      <h1 className="sub-heading padding-x font-medium font-NeueMontreal text-secondary pb-[50px] capitalize">
         A few things you <br />
-        may want to ask us:
+        may want to ask us :
       </h1>
       {FaqItems.map((item) => (
         <div
