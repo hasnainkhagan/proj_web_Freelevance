@@ -16,7 +16,7 @@ export default function Form() {
               <input
                 type="text"
                 placeholder="Enter your name*"
-                className="paragraph w-full font-NeueMontreal font-normal text-secondary bg-background border-b border-[#21212155] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out sm:w-full xm:w-full"
+                className="paragraph w-full font-NeueMontreal font-normal text-secondary bg-background border-b border-[#00055] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out sm:w-full xm:w-full"
               />
             </div>
           </div>
@@ -30,7 +30,7 @@ export default function Form() {
               <input
                 type="text"
                 placeholder="Compony name type here*"
-                className="paragraph w-full font-NeueMontreal font-normal text-secondary bg-background border-b border-[#21212155] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out sm:w-full xm:w-full"
+                className="paragraph w-full font-NeueMontreal font-normal text-secondary bg-background border-b border-[#00055] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out sm:w-full xm:w-full"
               />
             </div>
           </div>
@@ -46,7 +46,7 @@ export default function Form() {
               <input
                 type="text"
                 placeholder="Your goal type here*"
-                className="paragraph font-NeueMontreal font-normal text-secondary bg-background border-b border-[#21212155] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
+                className="paragraph font-NeueMontreal font-normal text-secondary bg-background border-b border-[#00055] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
               />
             </div>
           </div>
@@ -62,7 +62,7 @@ export default function Form() {
               <input
                 type="text"
                 placeholder="Date*"
-                className="paragraph font-NeueMontreal font-normal text-secondary bg-background border-b border-[#21212155] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
+                className="paragraph font-NeueMontreal font-normal text-secondary bg-background border-b border-[#00055] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
               />
             </div>
           </div>
@@ -78,7 +78,7 @@ export default function Form() {
               <input
                 type="text"
                 placeholder="Select*"
-                className="paragraph font-NeueMontreal font-normal text-secondary bg-background border-b border-[#21212155] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
+                className="paragraph font-NeueMontreal font-normal text-secondary bg-background border-b border-[#00055] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
               />
             </div>
           </div>
@@ -94,7 +94,7 @@ export default function Form() {
               <input
                 type="text"
                 placeholder="name@example.com"
-                className="paragraph font-NeueMontreal font-normal text-secondary bg-background border-b border-[#21212155] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
+                className="paragraph font-NeueMontreal font-normal text-secondary bg-background border-b border-[#00055] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
               />
             </div>
             <div className="xl:min-w-max lg:min-w-max md:min-w-max">
@@ -115,7 +115,7 @@ export default function Form() {
               <input
                 type="text"
                 placeholder="Product details type here..."
-                className="paragraph font-NeueMontreal font-normal text-secondary bg-background border-b border-[#21212155] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
+                className="paragraph font-NeueMontreal font-normal text-secondary bg-background border-b border-[#00055] focus:border-secondary text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
               />
             </div>
           </div>
@@ -139,7 +139,7 @@ export default function Form() {
           </div>
           <div className="w-fit flex items-center justify-between bg-secondary cursor-pointer rounded-full group">
             <RoundButton
-              bgcolor="#212121"
+              bgcolor="#000"
               href="/"
               title="send inquiry"
               className="bg-white text-black"

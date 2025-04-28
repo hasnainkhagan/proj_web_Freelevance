@@ -10,7 +10,7 @@ export default function Principles() {
           <br className="sm:hidden xm:hidden" /> every part of our work:
         </h1>
       </div>
-      <div className="w-full border-t border-[#21212155]">
+      <div className="w-full border-t border-[#00055]">
         <div className="w-full padding-x mt-[50px] flex justify-between gap-[30px] items-center sm:flex-col xm:flex-col">
           <div className="w-[50%] sm:w-full xm:w-full flex flex-col gap-[20px]">
             <Image

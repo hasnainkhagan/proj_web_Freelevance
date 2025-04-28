@@ -42,7 +42,7 @@ export default function Socials() {
             <TextMask>{phrase}</TextMask>
           </h1>
         </div>
-        <div className="w-full border-t border-[#21212155] pt-[20px]">
+        <div className="w-full border-t border-[#00055] pt-[20px]">
           <div className="w-full flex sm:flex-col xm:flex-col justify-between gap-y-[20px] padding-x">
             <div className="w-[50%] sm:w-full xm:w-full">
               <h3 className="paragraph font-medium text-secondary font-NeueMontreal">
@@ -78,7 +78,7 @@ export default function Socials() {
                 </div>
               </div>
               <div className="flex w-fit h-fit gap-x-[5px] group">
-                <div className="rounded-[50px] border-[2px] border-[#21212155] group-hover:bg-secondary  py-[3px] px-[12px] cursor-pointer">
+                <div className="rounded-[50px] border-[2px] border-[#00055] group-hover:bg-secondary  py-[3px] px-[12px] cursor-pointer">
                   <Link
                     href="mailto:team.freelevance@gmail.com"
                     className="paragraph font-NeueMontreal text-secondary uppercase group-hover:text-background transition-all duration-200 ease-in"
@@ -86,7 +86,7 @@ export default function Socials() {
                     team.freelevance@gmail.com
                   </Link>
                 </div>
-                <div className="w-[33px] flex items-center justify-center h-[33px] border-[2px] border-[#21212155] rounded-[50px] group-hover:bg-secondary transition-all duration-200 ease-in cursor-pointer sm:hidden xm:hidden">
+                <div className="w-[33px] flex items-center justify-center h-[33px] border-[2px] border-[#00055] rounded-[50px] group-hover:bg-secondary transition-all duration-200 ease-in cursor-pointer sm:hidden xm:hidden">
                   <p className="paragraph font-normal text-secondary group-hover:text-background">
                     <ArrowUpRight size={24} strokeWidth={1.25} />
                   </p>

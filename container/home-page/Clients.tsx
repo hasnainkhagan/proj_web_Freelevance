@@ -22,8 +22,8 @@ export default function Clients() {
           key={item.id}
           className={`w-full flex py-[10px] flex-col ${
             item.id == 1
-              ? "border-y border-[#21212155]"
-              : "border-b border-[#21212155]"
+              ? "border-y border-[#00055]"
+              : "border-b border-[#00055]"
           }`}
         >
           <div className="w-full flex items-center justify-between py-[10px] padding-x">

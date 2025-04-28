@@ -12,7 +12,7 @@ export default function Tags({
 }) {
   return (
     <div
-      className="w-fit rounded-[50px] border border-[#212121] cursor-pointer text-[#212121] hover:text-[#f1f1f1]"
+      className="w-fit rounded-[50px] border border-[#000] cursor-pointer text-[#000] hover:text-[#fff]"
       key={item.id}
     >
       <Link

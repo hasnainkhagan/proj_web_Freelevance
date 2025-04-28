@@ -13,7 +13,7 @@ export default function Principles() {
           across the globe:
         </h1>
       </div>
-      <div className="w-full border-t border-[#21212155] mt-[50px]">
+      <div className="w-full border-t border-[#00055] mt-[50px]">
         <div className="flex justify-between gap-[20px] sm:flex-col xm:flex-col pt-[50px]">
           {aboutPartberItems.map((item) => (
             <div

@@ -40,7 +40,7 @@ export default function Projects() {
               <div className="flex flex-wrap items-center gap-[10px] mt-[20px]">
                 {item.links.map((link) => (
                   <Tags
-                    bgcolor="#212121"
+                    bgcolor="#000"
                     item={link}
                     key={link.id}
                     className="hover:text-white"

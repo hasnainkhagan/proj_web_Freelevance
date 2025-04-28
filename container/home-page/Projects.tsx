@@ -6,7 +6,7 @@ export default function Projects() {
     <section className="w-full rounded-t-[20px]">
       <Heading
         title="Featured projects"
-        className="padding-x padding-y pb-[50px] border-b border-[#21212155]"
+        className="padding-x padding-y pb-[50px] border-b border-[#00055]"
       />
       <div className="w-full flex justify-between gap-y-[50px] padding-x padding-y flex-wrap">
         {projectItem.map((item) => (
@@ -22,7 +22,7 @@ export default function Projects() {
               {item.links.map((link) => (
                 <Tags
                   className="hover:text-white"
-                  bgcolor="#212121"
+                  bgcolor="#000"
                   item={link}
                   key={link.id}
                 />

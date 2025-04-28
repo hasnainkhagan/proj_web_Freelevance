@@ -5,12 +5,12 @@ export default function Hero() {
         <div className="w-full flex flex-col">
           <div className="w-full margin padding-x">
             <div>
-              <h1 className="heading tracking-[-1.3px] text-[#212121] font-semibold font-FoundersGrotesk uppercase">
+              <h1 className="heading tracking-[-1.3px] text-[#000] font-semibold font-FoundersGrotesk uppercase">
                 services
               </h1>
             </div>
           </div>
-          <div className="w-full border-t border-[#21212155]">
+          <div className="w-full border-t border-[#00055]">
             <p className="w-[80%] sm:w-full xm:w-full sub-heading font-normal padding-x font-NeueMontreal text-secondary padding-y">
               We create&nbsp;
               <span className="xl:link-flash lg:link-flash md:link-flash cursor-pointer">
@@ -23,7 +23,7 @@ export default function Hero() {
               presentations that educate, inspire and influence action.
             </p>
           </div>
-          <div className="w-full flex border-t border-[#21212155] py-[20px] flex-col">
+          <div className="w-full flex border-t border-[#00055] py-[20px] flex-col">
             <div className="w-full flex justify-between sm:flex-col xm:flex-col padding-x sm:gap-[20px] xm:gap-[20px]">
               <div className="w-[50%] sm:w-full xm:w-full">
                 <p className="paragraph font-NeueMontreal text-secondary">

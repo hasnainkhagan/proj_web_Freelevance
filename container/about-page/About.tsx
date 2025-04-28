@@ -5,7 +5,7 @@ export default function About() {
   return (
     <section className="w-full padding-y">
       <div className="w-full flex flex-col bg-background">
-        <div className="w-full border-t border-[#21212155] pt-[20px]">
+        <div className="w-full border-t border-[#00055] pt-[20px]">
           <div className="w-full flex justify-between padding-x sm:flex-col xm:flex-col gap-[30px]">
             <div>
               <h3 className="paragraph font-medium text-secondary font-NeueMontreal">

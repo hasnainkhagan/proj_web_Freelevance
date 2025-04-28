@@ -55,7 +55,7 @@ export default function Hero() {
               />
             </div>
           </div>
-          <div className="w-full flex flex-col h-[22vh] border-t border-[#21212155] py-[20px] sm:mb-[80px] xm:mb-[80px] gap-[30px]">
+          <div className="w-full flex flex-col h-[22vh] border-t border-[#00055] py-[20px] sm:mb-[80px] xm:mb-[80px] gap-[30px]">
             <div className="flex justify-between items-center padding-x gap-[20px] sm:flex-col sm:items-start xm:flex-col xm:items-start">
               <div className="w-[50%] xm:w-full sm:w-full">
                 <p className="paragraph font-NeueMontreal text-secondary">
@@ -69,7 +69,7 @@ export default function Hero() {
                   </p>
                 </div>
                 <div className="flex items-center gap-[5px] group">
-                  <div className="rounded-[50px] border border-[#21212199] group-hover:bg-secondary  py-[3px] px-[12px] cursor-pointer">
+                  <div className="rounded-[50px] border border-[#00099] group-hover:bg-secondary  py-[3px] px-[12px] cursor-pointer">
                     <Link
                       className="paragraph font-NeueMontreal text-secondary uppercase group-hover:text-background transition-all  transform duration-[0.3s] ease-[.215,.61,.355,1]"
                       href="/contact"
@@ -77,7 +77,7 @@ export default function Hero() {
                       start the project
                     </Link>
                   </div>
-                  <div className="w-[33px] flex items-center justify-center h-[33px] border border-[#21212199] rounded-full p-[1px] sm:p-[30px] xm:pb-[30px]  group-hover:bg-secondary transition-all transform duration-[0.3s] ease-[.215,.61,.355,1] cursor-pointer xm:hidden sm:hidden">
+                  <div className="w-[33px] flex items-center justify-center h-[33px] border border-[#00099] rounded-full p-[1px] sm:p-[30px] xm:pb-[30px]  group-hover:bg-secondary transition-all transform duration-[0.3s] ease-[.215,.61,.355,1] cursor-pointer xm:hidden sm:hidden">
                     <p className="font-normal text-secondary group-hover:text-background">
                       <ArrowUpRight size={24} strokeWidth={1.25} />
                     </p>

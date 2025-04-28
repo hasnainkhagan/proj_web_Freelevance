@@ -23,7 +23,7 @@ export default function Capibilyties() {
           </span>
         </h1>
       </div>
-      <div className="w-full flex sm:flex-col xm:flex-col justify-between py-[20px] padding-x border-t border-[#21212155] sm:gap-[15px] xm:gap-[15px]">
+      <div className="w-full flex sm:flex-col xm:flex-col justify-between py-[20px] padding-x border-t border-[#00055] sm:gap-[15px] xm:gap-[15px]">
         <div className="w-[10%] sm:w-full xm:w-full">
           <h3 className="paragraph font-medium text-secondary font-NeueMontreal">
             Our Capabilities:

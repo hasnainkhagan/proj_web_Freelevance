@@ -38,12 +38,12 @@ export default function Ready() {
             />
           </div>
           <p className="text-[20px] font-NeueMontreal text-secondary">OR</p>
-          <div className="flex items-center justify-between bg-transparent cursor-pointer rounded-full group border border-[#212121]">
+          <div className="flex items-center justify-between bg-transparent cursor-pointer rounded-full group border border-[#000]">
             <Link
               className="xl:text-[18px] xl:leading-[28px] text-[14px] leading-[24px] uppercase font-normal font-NeueMontreal"
               href="/contact"
             >
-              <Rounded className="py-[6px]" backgroundColor="#212121">
+              <Rounded className="py-[6px]" backgroundColor="#000">
                 <p className="z-10 px-[10px] ml-[15px] py-[6px] group-hover:text-white text-black">
                   team.freelevance@gmail.com
                 </p>

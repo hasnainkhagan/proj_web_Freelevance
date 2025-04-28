@@ -41,7 +41,7 @@ export default function Works() {
             className="paragraph text-secondary uppercase font-normal font-NeueMontreal"
             href={"/presentation"}
           >
-            <Rounded className="py-[6px]" backgroundColor="#212121">
+            <Rounded className="py-[6px]" backgroundColor="#000">
               <p className="text-secondary z-10 px-[10px] ml-[15px] py-[6px] group-hover:text-white">
                 view all case studies
               </p>

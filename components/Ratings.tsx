@@ -28,7 +28,7 @@ export default function Ratings() {
               href="/services"
             >
               <Rounded backgroundColor="#fff" className="">
-                <p className="z-10 px-[12px] py-[8px] hover:text-[#212121]">
+                <p className="z-10 px-[12px] py-[8px] hover:text-[#000]">
                   rating 5.0 on clutch
                 </p>
               </Rounded>
@@ -43,7 +43,7 @@ export default function Ratings() {
               href="/services"
             >
               <Rounded backgroundColor="#fff" className="">
-                <p className="z-10 px-[12px] py-[8px] hover:text-[#212121]">
+                <p className="z-10 px-[12px] py-[8px] hover:text-[#000]">
                   buisness bootcamp alumini
                 </p>
               </Rounded>

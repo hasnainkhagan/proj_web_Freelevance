@@ -8,11 +8,11 @@ export default function Insights() {
       <div className="w-full flex flex-col justify-between">
         <div className="w-full flex flex-col">
           <div className="padding-x pb-[30px]">
-            <h2 className="sub-heading font-normal tracking-[-1.3px] text-[#212121] font-NeueMontreal">
+            <h2 className="sub-heading font-normal tracking-[-1.3px] text-[#000] font-NeueMontreal">
               Insights
             </h2>
           </div>
-          <div className="w-full border-t border-[#21212155] pt-[20px]">
+          <div className="w-full border-t border-[#00055] pt-[20px]">
             <div className="w-full flex sm:flex-col xm:flex-col sm:gap-[20px] xm:gap-[20px] padding-x">
               <div className="w-[50%] sm:w-full xm:w-full sm:flex-col xm:flex-col">
                 <h3 className="text-[20px] leading-[30px] font-medium text-secondary font-NeueMontreal">

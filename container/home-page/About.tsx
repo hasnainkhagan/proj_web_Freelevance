@@ -28,7 +28,7 @@ export default function About() {
           </span>
         </h2>
       </div>
-      <div className="w-full border-y border-[#21212155] my-[50px] py-[20px]">
+      <div className="w-full border-y border-[#00055] my-[50px] py-[20px]">
         <div className="padding-x pb-[50px] w-full flex sm:flex-col xm:flex-col gap-[30px] justify-between">
           <div className="w-[50%] sm:w-full xm:w-full">
             <h3 className="sub-paragraph font-medium text-secondary font-NeueMontreal">

@@ -30,7 +30,7 @@ export default function MobileNav() {
             transition={{ duration: 1, ease: [0.3, 0.86, 0.36, 0.95] }}
             className="fixed top-0 bottom-0 right-0 z-50 w-full min-h-screen flex justify-end items-end flex-col bg-secondary"
           >
-            <div className="w-full flex justify-between items-center h-[8vh] border-b border-[#f1f1f155] padding-x">
+            <div className="w-full flex justify-between items-center h-[8vh] border-b border-[#fff55] padding-x">
               <Link href={"/"}>
                 <Image
                   src={mobileLogo}

@@ -32,12 +32,12 @@ export default function Hero() {
         <div className="w-full flex flex-col">
           <div className="w-full margin padding-x">
             <div>
-              <h1 className="heading tracking-[-1.3px] text-[#212121] font-semibold font-FoundersGrotesk uppercase">
+              <h1 className="heading tracking-[-1.3px] text-[#000] font-semibold font-FoundersGrotesk uppercase">
                 INSIGHTS
               </h1>
             </div>
           </div>
-          <div className="w-full border-t border-[#21212155] pt-[20px]">
+          <div className="w-full border-t border-[#00055] pt-[20px]">
             <div className="w-full flex justify-between padding-x sm:flex-col xm:flex-col gap-[20px]">
               <div className="w-[50%] sm:w-full xm:w-full">
                 <h3 className="paragraph font-medium text-secondary font-NeueMontreal">
@@ -49,7 +49,7 @@ export default function Hero() {
                   <div key={i}>
                     {item.id === 1 ? (
                       <div
-                        className="w-fit rounded-[50px] border border-[#21212199] cursor-pointer bg-black"
+                        className="w-fit rounded-[50px] border border-[#00099] cursor-pointer bg-black"
                         key={item.id}
                       >
                         <Link
@@ -63,7 +63,7 @@ export default function Hero() {
                       </div>
                     ) : (
                       <Tags
-                        bgcolor="#212121"
+                        bgcolor="#000"
                         item={item}
                         className="hover:text-white"
                       />
