@@ -11,10 +11,10 @@ export default function Projects() {
         <div
           data-scroll
           data-scroll-speed="-.2"
-          className="bg-[#BFDA62] w-[75%] py-[20px] rounded-t-[10px]	"
+          className="bg-[#bebebe] w-[75%] py-[20px] rounded-t-[10px]	"
         />
         <div
-          className="bg-[#B8D25E] relative z-20 w-[90%] py-[20px] rounded-t-[10px]"
+          className="bg-[#dedede] relative z-20 w-[90%] py-[20px] rounded-t-[10px]"
           data-scroll
           data-scroll-speed="-.1"
         />

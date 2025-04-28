@@ -2,7 +2,7 @@ export { default as eyes } from "./eyes.svg";
 export { default as logo } from "./logo.svg";
 export { default as mobileLogo } from "./mobile-logo.png";
 export { default as awwwards } from "./awwwards.svg";
-export { default as aboutImg } from "./aboutImg.webp";
+export { default as aboutImg } from "./aboutImg.png";
 export { default as videoImg } from "./videoImg.jpeg";
 export { default as project1 } from "./project1.webp";
 export { default as project2 } from "./project2.webp";
@@ -30,7 +30,7 @@ export { default as publication2 } from "./publication2.png";
 export { default as publication3 } from "./publication3.png";
 export { default as Freelevanceside } from "./ochi-side.png";
 export { default as eyeplay } from "./eyeplay.svg";
-export { default as contactHero } from "./contacthhero.jpg";
+export { default as contactHero } from "./contactHero.jpg";
 
 // services page
 export { default as phase1 } from "./phase1.png";
